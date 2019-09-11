@@ -3,6 +3,7 @@ A short bash script to play Rock Paper Scissors via Command Line Interface.
 
 Author: Brandon Lavello
 
+## BASIC USE
 
 This script is called ```rps.sh```, and it is called through the ```bash``` command. 
 
